@@ -7,4 +7,4 @@
         '/radio/PS0231/PS0231_000000745.mp4',
     ]
 
-    formsts = generate_formats(urls)
+    formats = generate_formats(urls)
