@@ -16,7 +16,7 @@ install_requires = []
 
 setup(name='urlformatter',
       version='0.0.1',
-      description='Streaming server contents URL formatter',
+      description='Infer URL formats from streaming server logs',
       long_description=read_md('README.md'),
       author='Keiichi SHIMA',
       author_email='keiichi@iijlab.net',
